@@ -1,5 +1,7 @@
 # hello-world
 
+[![Clojars Project](https://img.shields.io/clojars/v/com.beaconhill/hello-world.svg)](https://clojars.org/com.beaconhill/hello-world)
+
 A Clojure library designed to ... well, that part is up to you.
 
 ## Usage
@@ -8,7 +10,7 @@ FIXME
 
 ## License
 
-Copyright © 2020 FIXME
+Copyright © 2020 Beacon Hill
 
 This program and the accompanying materials are made available under the
 terms of the Eclipse Public License 2.0 which is available at
